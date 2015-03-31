@@ -1,5 +1,4 @@
 Adam Lloyd
-R00117318
 DWEB2
 
 Cloud Computing with Python 
