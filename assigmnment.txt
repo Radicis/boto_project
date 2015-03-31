@@ -1,0 +1,3 @@
+learn about popular amazon feature to implement in assignment 2
+pick an interesting feature, more obscure, be innovative
+outside of free tier usage
