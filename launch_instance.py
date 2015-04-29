@@ -1,7 +1,7 @@
 import boto.ec2
 
-key_id = "AKIAIK5DOQ5FI55STIVA"
-secret_key = "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"
+key_id = "#######"
+secret_key = "#######"
 
 #The variable region is set when get_region returns a boto RegionInfo object when passed a region string and key parameters
 region = boto.ec2.get_region("eu-west-1", aws_access_key_id=key_id, aws_secret_access_key=secret_key)
